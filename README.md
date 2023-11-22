@@ -23,7 +23,7 @@ b=np.array([0,10])
 c=np.linalg.solve(a,b)
 print(c)
 ## Output:
-![Alt text](image.png)
+![Alt text](/image.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
